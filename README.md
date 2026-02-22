@@ -11,6 +11,7 @@ distributed ML systems in research and production settings.
 My work sits at the intersection of NLP and data engineering: 
 fine-tuning language models, designing evaluation frameworks, 
 and building the infrastructure that makes them reliable at scale.
+Actively looking for MLE and DE roles.
 
 ---
 
