@@ -1,4 +1,4 @@
-# Madhav Marupudi
+# Srinivasa Phani Madhav Marupudi
 
 **MS Data Science, Stony Brook University**  
 MLE / Data Engineer · New York
