@@ -5,11 +5,12 @@ MLE / Data Engineer · New York
 
 ---
 
-I build ML systems that actually ship: distributed pipelines, LLM fine-tuning, and data infrastructure at scale.
+MS grad with hands-on experience building LLM pipelines and 
+distributed ML systems in research and production settings.
 
-Currently a Research Assistant at Stony Brook working on LLM  
-benchmarking and synthetic data generation for materials science.  
-Actively looking for MLE and DE roles.
+My work sits at the intersection of NLP and data engineering: 
+fine-tuning language models, designing evaluation frameworks, 
+and building the infrastructure that makes them reliable at scale.
 
 ---
 
