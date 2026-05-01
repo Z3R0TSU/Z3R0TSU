@@ -21,9 +21,9 @@ Python   PySpark   PyTorch   LangChain   SQL   Docker   GCP
 
 **Recent Projects**
 
-[medguardai-fraud-detection](https://github.com/Z3R0TSU/medguardai-fraud-detection) — Distributed fraud detection across 88M+ Medicare claims  
-[extract-light](https://github.com/Z3R0TSU/extract-light) — LoRA fine-tuning LLaMA 3.2 for schema-aware SQL generation  
-[opengen-latex-generator](https://github.com/Z3R0TSU/opengen-latex-generator) — Natural language to LaTeX via local LLM  
+[medguardai-fraud-detection](https://github.com/Z3R0TSU/medguardai-fraud-detection) :- Distributed fraud detection across 88M+ Medicare claims  
+[extract-light](https://github.com/Z3R0TSU/extract-light) :- LoRA fine-tuning LLaMA 3.2 for schema-aware SQL generation  
+[opengen-latex-generator](https://github.com/Z3R0TSU/opengen-latex-generator) :- Natural language to LaTeX via local LLM  
 
 ---
 
